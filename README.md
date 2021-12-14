@@ -1,0 +1,2 @@
+# testAPI
+Using FastAPI, Postman
